@@ -7,6 +7,8 @@
     <Authors>Nathan Jacobs</Authors>
     <Description>SequenceReader for .NET Standard 2.0</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/nathanAjacobs/SequenceReaderNetStandard2_0</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nathanAjacobs/SequenceReaderNetStandard2_0</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
